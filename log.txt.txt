@@ -1,0 +1,11 @@
+Rencana perbaikan versi 0.2 :
+1. Buat laman PROFIL SEKOLAH
+
+Rencana perbaikan versi 0.1 :
+1. Navbar dibuat jadi fixed (OKE)
+2. Warna navbar orange; teks putih (OKE)
+3. Warna teks header feature orange (OKE)
+4. Warna background DAFTAR hijau; teks putih atau menyesuaikan (OKE)
+5. Warna footer background DAFTAR hijau; teks putih atau menyesuaikan (OKE)
+6. Footer tambahin ikon media sosial dan link (OKE)
+7. sesuaikan HREF link (OKE)

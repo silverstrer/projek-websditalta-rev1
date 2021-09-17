@@ -1,0 +1,64 @@
+/* 228c3a Pallete Hijau*/ 
+/* ffc107 Pallete Orange */
+body{
+    margin: 0;
+    padding: 0;
+  }
+
+p{
+    color: black;
+}
+
+.container .navbar-brand{
+      color: #228c3a;
+      font-weight: bold;
+  }
+
+nav .container ul li .active{
+    color: #ffc107;
+    font-weight: bold;
+}
+
+
+.marketing h2{
+    color: #228c3a;
+    font-weight: bold;
+}
+
+.regist-btn a{
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    padding: 10px 30px;
+    margin: 10px;
+}
+
+.regist-btn .daftar{
+    background-color: #ffc107;
+    border-radius: 6px;
+    border: #ffc107 2px solid;
+    font-weight: bold;
+}
+
+.regist-btn .daftar:hover{
+    border: white 2px solid;
+    background-color: #ffc107;
+    border-radius: 6px;
+    font-weight: bold;
+    color:white;
+}
+
+.regist-btn .biaya{
+    border: white solid 2px;
+    border-radius: 6px;
+}
+
+
+.container h1{
+    color: #228c3a;
+}
+
+.copyright a{
+    color: white;
+    font-weight: bold;
+}
