@@ -15,7 +15,8 @@ p{
   }
 
 nav .container ul li .active{
-    color: #ffc107;
+    background-color: white;
+    color: #228c3a;
     font-weight: bold;
 }
 
