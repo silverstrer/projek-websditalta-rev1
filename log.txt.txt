@@ -1,5 +1,5 @@
 Rencana perbaikan versi 0.3 :
-1. Tambahan gambar di laman SEJARAH SINGKAT
+1. Tambahan gambar di laman VISI MISI (OKE)
 
 Rencana perbaikan versi 0.2 :
 1. Buat laman SEJARAH SINGKAT (OKE)
