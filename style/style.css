@@ -20,6 +20,11 @@ nav .container ul li .active{
     font-weight: bold;
 }
 
+/* TAMBAHAN CSS CAROUSEL */
+.carousel-caption{
+    top: 50%;
+    transform: translateY(-50%);
+}
 
 .marketing h2{
     color: #228c3a;
