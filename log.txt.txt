@@ -3,10 +3,10 @@ Hasil presentasi tgl 04/10/2021
 OKE 1. Logo di halaman awal (akreditasi, adiwiyata, dan jsit)
 2. Buat singkatan dari program unggulan
 OKE TINGGAL FOTO 3. Tambahin bukti lulusan terbaik (data siapa melanjutkan kemana) dilengkapi foto sekolah tujuan
-4. Tambahin keterangan di foto KEGIATAN KAMI
+OKE 4. Tambahin keterangan di foto KEGIATAN KAMI
 5. Tambahan sejarah al husna di SEJARAH SINGKAT
 6. Laman SARANA PRASARAN gerbang, satpam, masjid, lapangan, kolam ikan, lab komputer, kelas, lorong
-7. laman PRESTASI tambah ksn, dan yang sudah menyelesaikan juz 30
+OKE 7. laman PRESTASI tambah ksn, dan yang sudah menyelesaikan juz 30
 OKE 8. Laman PROGRAM UNGGULAN : 
 Keimanan, tauhid, dan akhlak
 Tahsin dan tahfidzul quran
@@ -23,6 +23,7 @@ Wisuda alquran juz 30
 poster PPDB, alur pendaftaran online datang langsung, promo PPDB
 12. Tambahan halaman SAMBUTAN KETUA YAYASAN
 13. Ganti semua foto di PAGES
+OKE 14. Tambah foto profil SHW, JHR, dan APIP
 
 Rencana perbaikan versi 0.3 :
 1. Tambahan gambar di laman VISI MISI (OKE)
