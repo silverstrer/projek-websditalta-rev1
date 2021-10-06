@@ -5,7 +5,7 @@ OKE 1. Logo di halaman awal (akreditasi, adiwiyata, dan jsit)
 OKE TINGGAL FOTO 3. Tambahin bukti lulusan terbaik (data siapa melanjutkan kemana) dilengkapi foto sekolah tujuan
 OKE 4. Tambahin keterangan di foto KEGIATAN KAMI
 5. Tambahan sejarah al husna di SEJARAH SINGKAT
-6. Laman SARANA PRASARAN gerbang, satpam, masjid, lapangan, kolam ikan, lab komputer, kelas, lorong
+OKE 6. Laman SARANA PRASARANA
 OKE 7. laman PRESTASI tambah ksn, dan yang sudah menyelesaikan juz 30
 OKE 8. Laman PROGRAM UNGGULAN : 
 Keimanan, tauhid, dan akhlak
@@ -24,6 +24,7 @@ poster PPDB, alur pendaftaran online datang langsung, promo PPDB
 12. Tambahan halaman SAMBUTAN KETUA YAYASAN
 13. Ganti semua foto di PAGES
 OKE 14. Tambah foto profil SHW, JHR, dan APIP
+OKE 14. Buat link RINCIAN BIAYA ke gambar rincian biaya
 
 Rencana perbaikan versi 0.3 :
 1. Tambahan gambar di laman VISI MISI (OKE)
