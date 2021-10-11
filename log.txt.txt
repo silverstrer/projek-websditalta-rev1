@@ -22,7 +22,7 @@ OKE 9. Laman EKSTRAKURIKULER tambahin foto
 OKE 11. Tambahan di laman BERANDA
 poster PPDB, alur pendaftaran online datang langsung, promo PPDB
 OKE 12. Tambahan halaman SAMBUTAN KETUA YAYASAN
-13. Ganti semua foto di PAGES
+OKE 13. Ganti semua foto di PAGES
 OKE 14. Tambah foto profil SHW, JHR, dan APIP
 OKE 14. Buat link RINCIAN BIAYA ke gambar rincian biaya
 
