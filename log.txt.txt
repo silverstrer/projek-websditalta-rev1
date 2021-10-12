@@ -4,7 +4,7 @@ OKE 2. Hilma : ponpes darunnajah serang - laman beranda
 OKE 3. Sarpras : taman burung, kolam ikan, gardu sd
 OKE 4. Font di program unggulan ditebelin
 OKE 5. Perbaiki Navigasi di target mutu lulusan
-6. Tambahin foto renang, kamping, qurban di beranda
+OKE 6. Tambahin foto renang, kamping, qurban di beranda
 OKE 7. Perbaikan tombol rincian biaya di beranda
 8. Testimoni alumni : foto, nama, profesi sekarang, testimoni
 BATAL 9. Ubah layout di profil guru
